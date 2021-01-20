@@ -102,3 +102,39 @@ etc...
 
 Même exercice que l'exercice 6 mais en utilisant la récursivité.
 https://openclassrooms.com/fr/courses/438849-la-recursivite
+
+## Exercice 8
+
+Copier les données ci-dessous dans un fichier 'data.txt' :
+
+```
+Prenom: Paul
+Nom: Dupont
+Age: 27
+Ville: Toulouse
+
+Prenom: Pierre
+Nom: Martin
+Age: 58
+Ville: Strasbourg
+
+Prenom: Jacques
+Nom: Moretti
+Age: 65
+Ville: Paris
+
+Prenom: Marie
+Nom: Kondo
+Age: 35
+Ville: Tokyo
+```
+
+Écrire un programme qui lit le contenu du fichier et stocke les données dans une liste de dictionnaires (chaque personne doit être stockée dans un dictionnaire dédié).
+A partir du contenu de la liste, le programme doit donner le détail pour chaque personne de la manière suivante :
+
+```
+Personne n°1 : Paul Dupont a 27 ans et habite à Toulouse
+Personne n°2 : Pierre Martin a 58 ans et habite à Strasbourg
+Personne n°3 : Jacques Moretti a 65 ans et habite à Paris
+Personne n°4 : Marie Kondo a 35 ans et habite à Tokyo
+```
