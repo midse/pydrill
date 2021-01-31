@@ -36,7 +36,7 @@ Bon exercice pour te faire manipuler la doc python et commencer à utiliser les 
 Toujours en utilisant le module CSV de Python, écrire un script qui permet de filtrer la liste des personnes en passant des paramètres. Pour cela tu devras utiliser le module argparse de Python (https://docs.python.org/3/library/argparse.html)
 
 Par exemple, pour n'afficher que les hommes de la liste :
-`python ton_script.py --genre=male`
+`python ton_script.py --gender=male`
 
 Ou encore pour limiter le nombre de résultats
 `python ton_script.py --gender=male --max-results=50`
